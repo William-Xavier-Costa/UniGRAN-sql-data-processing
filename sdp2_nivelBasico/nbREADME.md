@@ -1,9 +1,3 @@
-# UniGRAN-sql-data-processing
-
-Repositório educacional com projetos práticos de SQL para evolução progressiva.  
-
-## SQL Data Processing  
-
 
 ```markdown
 
